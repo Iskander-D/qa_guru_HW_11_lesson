@@ -1,0 +1,10 @@
+{
+  "name": "John",
+  "age": "40",
+  "skill": "driver",
+  "cars": [
+    "Porsche",
+    "Maclaren",
+    "Nissan"
+  ]
+}
